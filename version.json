@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261105,
-  "versionName": "target 20261105 debug",
-  "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261105.apk",
-  "changelog": "1. 授权页跳转不再要求上下文是 Activity(修复一加等机型点了没反应)\n2. 优先直接调起系统安装器,由系统引导授权\n3. 失败时提示机型与具体异常原因\n4. 已下载完成的包不重复下载",
+  "versionCode": 20261107,
+  "versionName": "target 20261107 debug",
+  "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261107.apk",
+  "changelog": "1. 撤掉每次启动的更新检测诊断弹窗,无新版本/检查失败时不再打扰\n2. 授权页跳转不再要求上下文是 Activity\n3. 优先直接调起系统安装器,由系统引导授权\n4. release 构建补 R8 keep 规则,更新链路不再被裁剪",
   "force": false,
-  "md5": "7ba45ce99974c7ee2b2d74c3e11fd383"
+  "md5": "60a904f9655159596ecd6c366d969c6e"
 }
