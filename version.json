@@ -2,7 +2,7 @@
   "versionCode": 20261105,
   "versionName": "target 20261105 debug",
   "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261105.apk",
-  "changelog": "1. 新增自动更新功能(后台检测+弹窗提示+进度显示)\n2. 支持多镜像加速下载(自动故障转移)\n3. 可取消非强制更新\n4. 适配 TV 遥控器操作",
+  "changelog": "1. 更新弹窗新增下载进度条与百分比\n2. 弹窗高度压缩,按钮不再超出屏幕\n3. 更新内容区域可滚动\n4. 扫码推送/配置页面输入框增加说明文字",
   "force": false,
-  "md5": "22051caf548971da4e2157775bfd7554"
+  "md5": "f6aac45dafc0c4c47549c5baa14a401f"
 }
