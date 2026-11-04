@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261107,
-  "versionName": "target 20261107 debug",
-  "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261107.apk",
+  "versionCode": 20261104,
+  "versionName": "1.0.20261104_2020",
+  "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/v20261104/Box-release-20261104.apk",
   "changelog": "1. 撤掉每次启动的更新检测诊断弹窗,无新版本/检查失败时不再打扰\n2. 授权页跳转不再要求上下文是 Activity\n3. 优先直接调起系统安装器,由系统引导授权\n4. release 构建补 R8 keep 规则,更新链路不再被裁剪",
   "force": false,
-  "md5": "60a904f9655159596ecd6c366d969c6e"
+  "md5": "1094446a58fed89c66341e5d3d7546f0"
 }
