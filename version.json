@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261104,
-  "versionName": "1.0.20261103_2114",
-  "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-release-arm64-v8a.apk",
+  "versionCode": 20261105,
+  "versionName": "target 20261105 debug",
+  "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261105.apk",
   "changelog": "1. 新增自动更新功能(后台检测+弹窗提示+进度显示)\n2. 支持多镜像加速下载(自动故障转移)\n3. 可取消非强制更新\n4. 适配 TV 遥控器操作",
   "force": false,
-  "md5": "4991c2aeba9e55e13abb777a72d85fae"
+  "md5": "199fb3c6343c6c047d17aef5f8a574ab"
 }
