@@ -2,7 +2,7 @@
   "versionCode": 20261105,
   "versionName": "target 20261105 debug",
   "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261105.apk",
-  "changelog": "1. 缺少安装权限时自动跳转系统授权页,授权返回后自动继续安装\n2. 已下载完成的包不再重复下载\n3. 更新弹窗进度条与高度优化\n4. 扫码推送/配置页面输入框增加说明文字",
+  "changelog": "1. 缺少安装权限时自动跳转授权页(MIUI/原生/TV 多入口依次尝试)\n2. 从授权页返回自动继续安装,不再依赖权限查询结果\n3. 每次点击都有 Toast 与文字反馈\n4. 已下载完成的包不重复下载",
   "force": false,
-  "md5": "bf07fa20efeae4f8ffc73b0080a946e4"
+  "md5": "ce439d495c60176859ce6907aa87a548"
 }
