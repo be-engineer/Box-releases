@@ -2,7 +2,7 @@
   "versionCode": 20261105,
   "versionName": "target 20261105 debug",
   "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261105.apk",
-  "changelog": "1. 下载完成后直接调起系统安装器,由系统引导授权\n2. 安装器与授权页都失败时,提示具体异常原因\n3. 从授权页返回自动继续安装\n4. 已下载完成的包不重复下载",
+  "changelog": "1. 授权页跳转不再要求上下文是 Activity(修复一加等机型点了没反应)\n2. 优先直接调起系统安装器,由系统引导授权\n3. 失败时提示机型与具体异常原因\n4. 已下载完成的包不重复下载",
   "force": false,
-  "md5": "b713ad1939e001d7f8c01216aee8f696"
+  "md5": "7ba45ce99974c7ee2b2d74c3e11fd383"
 }
