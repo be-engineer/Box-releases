@@ -2,7 +2,7 @@
   "versionCode": 20261105,
   "versionName": "target 20261105 debug",
   "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/test-20261103/Box-target-20261105.apk",
-  "changelog": "1. 更新弹窗新增下载进度条与百分比\n2. 弹窗高度压缩,按钮不再超出屏幕\n3. 更新内容区域可滚动\n4. 扫码推送/配置页面输入框增加说明文字",
+  "changelog": "1. 缺少安装权限时自动跳转系统授权页,授权返回后自动继续安装\n2. 已下载完成的包不再重复下载\n3. 更新弹窗进度条与高度优化\n4. 扫码推送/配置页面输入框增加说明文字",
   "force": false,
-  "md5": "f6aac45dafc0c4c47549c5baa14a401f"
+  "md5": "bf07fa20efeae4f8ffc73b0080a946e4"
 }
